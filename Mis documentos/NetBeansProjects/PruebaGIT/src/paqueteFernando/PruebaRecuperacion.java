@@ -11,4 +11,8 @@ package paqueteFernando;
  */
 public class PruebaRecuperacion {
     
+    public static void main (String[]args)
+    {
+        System.out.println("Hola Mundo");
+    }
 }
